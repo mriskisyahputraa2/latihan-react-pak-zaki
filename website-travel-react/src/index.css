@@ -34,7 +34,7 @@
   }
 
   button {
-    @apply p-3 border bg-gradient-to-tr from-[var(--primary-dark)] to-[var(--primary-light)] text-white;
+    @apply p-3 border bg-gradient-to-tr from-[var(--primary-dark)] to-[var(--primary-light)] text-white rounded;
   }
 
   .icon {
