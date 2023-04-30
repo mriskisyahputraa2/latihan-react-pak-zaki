@@ -8,10 +8,8 @@ import SelectCard from "./SelectsCard"
 
 function Select() {
     return <>
-
-
         <div className="max-w-[1240px] px-4 mx-auto ">
-            <div className='text-center pb-16'>
+            <div className='text-center pb-10 pt-6'>
                 <h2>Recommended Tourist Destinations</h2>
             </div>
             <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-4'>
