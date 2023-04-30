@@ -4,7 +4,7 @@ import { AiOutlineSearch } from 'react-icons/ai'
 function Hero() {
     return <>
         <div className='w-full h-screen'>
-            <video className='w-full h-full object-cover' src={PantaiVid} ></video>
+            <video className='w-full h-full object-cover' src={PantaiVid} autoPlay muted loop></video>
         </div>
         <div className='absolute top-0 left-0 w-full h-full bg-gray-900/30'></div>
 
