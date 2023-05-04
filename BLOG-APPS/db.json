@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "adada",
+      "email": "adadada",
+      "phone": "234324252",
+      "id": 1
+    },
+    {
+      "name": "dada",
+      "email": "dada",
+      "phone": "2342",
+      "id": 2
+    },
+    {
+      "name": "dada",
+      "email": "adad",
+      "phone": "23234243",
+      "id": 3
+    }
+  ]
+}
